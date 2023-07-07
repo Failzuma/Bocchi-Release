@@ -1,2 +1,2 @@
 # Bocchi-Release
-Binary Release of Bocchi Release for Train Rail Star Anime Game
+Binary Release of Bocchi for Train Rail Star Anime Game
